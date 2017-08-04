@@ -1,0 +1,25 @@
+.required:after { content:" *"; color: red; }
+label {
+	font-size: 1rem;
+	margin-bottom: 0rem;
+}
+/*.side-head.mdl-navigation__link {
+	width: 100%;
+}*/
+.item-table > tbody > tr > td, .item-table > thead > tr > th {
+	text-align:left;
+}
+/*.mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
+	padding: 5px 10px;
+}*/
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+    background-color: #040404;
+}
+.logo {
+  display: block;
+  max-width:200px;
+  max-height:60px;
+  width: auto;
+  height: auto;
+}
+

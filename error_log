@@ -1,0 +1,1 @@
+[04-Jul-2017 23:25:41 UTC] PHP Fatal error:  Call to a member function beginTransaction() on null in /home4/z0u2r5c4/sellerpier/vendor/laravel/framework/src/Illuminate/Database/Concerns/ManagesTransactions.php on line 108
